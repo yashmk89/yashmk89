@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  [Portfolio](https://yashmk89.github.io/Portfolio/)<br>🧮 I’m currently doing NPTL(Cyber Security) <br>👨‍💻 All of my Project are available at GitHub<br>🌱 I’m currently learning cyber security and privacy, ML<br>💬 Ask me about Ethical Hacking , Python , Mobile Security<br>📫 How to Reach Me yashmakwana743507@gmail.com<br>📄Know about my experiences [RESUME](https://drive.google.com/file/d/1giruZyRBFyu_UDvTxJtG2n4u0EzzPuzv/view?usp=drive_link)
+🔭 I’m currently working on  [Portfolio](https://yashmk89.github.io/Portfolio/)<br>🧮 I’m currently doing NPTL(Cyber Security) <br>👨‍💻 All of my Project are available at GitHub<br>🌱 I’m currently learning cyber security and privacy, ML<br>💬 Ask me about Ethical Hacking , Python , Mobile Security<br>📫 How to Reach Me yashmakwana743507@gmail.com<br>📄Know about my experiences [RESUME](https://drive.google.com/file/d/1cINnohqWMOUHmCe635gxcIlj_NA8ISAw/view?usp=sharing)
 
 
 ## 🌐 Socials:
