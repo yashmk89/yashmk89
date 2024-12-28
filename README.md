@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🪬 TryHackMe : 
-![](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3969859" style='border:none;'></iframe>)
+![](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3969859)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yashmk89&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
